@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-ibwrodj&czpof)3xa7jng6b_zjbo3mwg=h@58u_cn-=&n&2k_q
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['remoview.onrender.com', '127.0.0.1', 'localhost']
+
 
 
 # Application definition
